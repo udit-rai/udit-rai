@@ -33,7 +33,8 @@ If it runs on the web, I build it — end-to-end.
 **Tech:** React, Node, Firestore
 **Deep Dive:** <Medium link>  
 **Screenshots:**  
-<img width="420" src="crud_app_read.png"/> <img width="420" src="crud_app_create.png"/>
+<img width="420" src="crud_app_read.png"/> <img width="420" src="crud_app_create.png"/> 
+<img width="420" src="map_home.png"/> <img width="420" src="map_china.png"/>
 
 ---
 
@@ -43,7 +44,7 @@ If it runs on the web, I build it — end-to-end.
 **Tech:** React, Node
 **Deep Dive:** <Medium link> 
 **Screenshots:**  
-<img width="420" src="s1.png"/> <img width="420" src="s2.png"/>
+<img width="420" src="tarot_home.png"/> <img width="420" src="tarot_booking.png"/>
 
 <!---
 

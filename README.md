@@ -9,45 +9,11 @@ To be perfectly honest, most developers build reliable solutions; but think secu
 
 As a former **Incident Responder and Lead Cybersecurity Trainer** at **prestigious government institutions during international tensions**, I learned the biggest mistakes that make systems fail, including idiot-proofing those systems. Sounds harsh, but that way they **don’t fall apart when reality gets hostile, or customers get fickle.**
 -->
-When you work with me, you don’t just get fast, scalable full-stack builds —  
-you get **resilient systems designed to protect revenue, data, and reputation.**
+When you work with me, you don’t just get fast, scalable full-stack builds —  you get **resilient systems designed to protect revenue, data, and reputation.**
+## Not to mention
+If it runs on the web, I build it — end-to-end.
 
----
-
-# 🛠️ What I Build  
-If it runs on the web, I build it — end-to-end:
-
-### ⚙️ Full-Stack Solutions for Businesses & Startups  
-- Internal tools & dashboards  
-- Booking, ordering & workflow systems  
-- Data-driven platforms  
-- Secure authentication systems  
-- Startup MVPs  
-- APIs, integrations, automations  
-- Multi-role permission-based apps  
-- SaaS-style products  
-
-### 🎨 Custom Web Experiences for Individuals  
-- Personal portfolio sites  
-- Creator/artist pages  
-- Professional identity websites  
-- Custom UI components  
-- Interactive showcases  
-
-### 🛡️ Security-Enhanced Engineering  
-- Secure backend architecture  
-- Hardened authentication flows  
-- Input validation, rate limiting, audit logs  
-- Deployment best practices  
-- Disaster recovery planning  
-- Threat modeling for real scenarios  
-
-Security isn’t a feature.  
-It’s baked into the foundation.
-
----
-
-# 🚀 Featured Builds (Top 5)
+# 🚀 Recent Builds (Top 5)
 
 ### 🟩 <Project Name> — Full-Stack Business Platform  
 **Client Type:** Local business / startup  

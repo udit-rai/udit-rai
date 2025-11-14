@@ -1,7 +1,7 @@
 # 📬 Want Something Built — Safely?  
 Whether it’s a business platform, an MVP, an internal tool, or a personal site:
 
-**Email:** you@yourdomain  
+**Email:** udit@uditrai.com  
 **Book a Call:** <Calendly>  
 
 # I Build Full-Stack Web Solutions — Reliable, Optimized, Secure. ⚙️🛡️  

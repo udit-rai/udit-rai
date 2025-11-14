@@ -18,7 +18,7 @@ And this is a repetitive trend across companies-
 3. Todesktop had to give $5,000 to a third-party penetration tester, who found a way to push malicious scripts to **all their clients**, from Clickup, Notion Calendar, Cursor and Linear; by finding rudimentary firestore vulnerabilities caused basically by hardcoded credentials and weak security rules.
 
 While I am not a penetration tester, nor claim to be; I have all the experience and exposure to provide secure yet beautified solutions for every business that does not utilize proprietary payment gateways or deal with highly confidential/sensitive data with an APT threat model. 
-
+<!--
 As a former **Incident Responder and Lead Cybersecurity Trainer** at **prestigious government institutions during international tensions**, I learned the biggest mistakes that make systems fail, including idiot-proofing those systems. Sounds harsh, but that way they **don’t fall apart when reality gets hostile, or customers get fickle.**
 -->
 When you work with me, you don’t just get fast, scalable full-stack builds —  you get **resilient systems designed to protect revenue, data, and reputation.**

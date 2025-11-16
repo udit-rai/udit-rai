@@ -1,6 +1,6 @@
 # Why I Chose Building for Businesses instead of the Leetcode Grind ⚙️🛡️  
 
-During my internships, I noticed a disturbing pattern; small businesses were losing money and reputation to careless development. A few moments that stuck with me:
+During my internships, I noticed a disturbing pattern; small businesses were losing money and reputation to careless development. Some examples:
 
 ➡ A third-party dev deployed our site on an AWS server that was also being used as a command center by an Iranian APT group. The website was delivering malware to users and the domain was blacklisted on Spamhaus and every other major Spam List provider.
 
@@ -10,7 +10,7 @@ During my internships, I noticed a disturbing pattern; small businesses were los
 
 ➡ A friend running a jewellery business used an app that had both bookings and inventory data within the same application. I provided his developer with some resources to set up canary tokens (cyber trip-alarms, as a metaphor) immediately—because inventory data comprises physical risk for him.
 
-Learning from the above, I kept my development process algorithmic: threat-model when needed, reduce attack surface always, and build from a research-backed user model. That’s why issues like the ones above don’t happen in my work.
+♜ Learning from the above, I kept my development process algorithmic: threat-model when needed, reduce attack surface always, and build from a research-backed user model. That’s why issues like the ones above don’t happen in my work.
 
 
 # 🚀 A Few Of My Recent Builds

@@ -54,8 +54,8 @@ During my internships, I noticed a disturbing pattern; small businesses were los
 **Deep Dive:** Medium link (will be published soon)
 
 **Screenshots:**  
-<img width="420" src="tarot_home.png"/> <img width="420" src="tarot_booking.png"/>
-<img width="420" src="tarot_service.png"/>
+<img width="420" src="lib_admin_index.png"/> <img width="420" src="lib_lms_menu.png"/>
+<img width="420" src="lib_login_page.png"/>
 
 
 # 📬 Contact  

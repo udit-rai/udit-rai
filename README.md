@@ -41,7 +41,7 @@ Learning from the above, I kept my development process algorithmic: threat-model
 
 **Screenshots:**  
 <img width="420" src="tarot_home.png"/> <img width="420" src="tarot_booking.png"/>
-<img width="420" src="tarot_tarot.png"/> <img width="420" src="tarot_reiki.png"/>
+<img width="420" src="tarot_service.png"/>
 
 # 📬 Contact  
 Whether you want to get something built, or just want me to take a look at how to improve and secure an existing application:

@@ -1,4 +1,4 @@
-# Why I Chose Building for Businesses instead of the Leetcode Grind ⚙️🛡️  
+# Why I Chose Building for Businesses instead of the Leetcode Grind
 
 During my internships, I noticed a disturbing pattern; small businesses were losing money and reputation to careless development. Some examples:
 

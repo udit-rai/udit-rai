@@ -10,7 +10,7 @@ During my internships, I noticed a disturbing pattern; small businesses were los
 
 ➡ A friend running a jewellery business used an app that had both bookings and inventory data within the same application. I provided his developer with some resources to set up canary tokens (cyber trip-alarms, as a metaphor) immediately—because inventory data comprises physical risk for him.
 
-♜ Learning from the above, I kept my development process algorithmic: always reduce attack-surfaces as far as possible, utilize threat-models when required, and build from a research-backed user model. That’s why you never lose money using my work.
+♜ Learning from the above, I’ve made my development process algorithmic: reduce attack surfaces, apply threat models when needed, and build from a research-backed user model. It’s how I make sure the systems I build protect your product, your users and your bottom line.
 
 
 # 🚀 A Few Of My Recent Builds

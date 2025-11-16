@@ -43,6 +43,21 @@ During my internships, I noticed a disturbing pattern; small businesses were los
 <img width="420" src="tarot_home.png"/> <img width="420" src="tarot_booking.png"/>
 <img width="420" src="tarot_service.png"/>
 
+
+### 🔒 Academic Project — For an IT Training Educator  
+**Client:** Wishes to remain private  
+
+**Summary:** For a very busy IT educator, provided a beautified web application with the intention to teach basic security features utilizing middleware; such as salting, hashing and honeypot pages to name a few.
+
+**Tech:** EJS, Node, MySQL Server
+
+**Deep Dive:** Medium link (will be published soon)
+
+**Screenshots:**  
+<img width="420" src="tarot_home.png"/> <img width="420" src="tarot_booking.png"/>
+<img width="420" src="tarot_service.png"/>
+
+
 # 📬 Contact  
 Whether you want to get something built, or just want me to take a look at how to improve and secure an existing application:
 

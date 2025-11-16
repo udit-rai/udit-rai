@@ -1,41 +1,28 @@
-# 📬 Want Something Built — Safely?  
-Whether it’s a business platform, an MVP, an internal tool, or a personal site:
+# Why I Chose Building for Businesses instead of the Leetcode Grind ⚙️🛡️  
 
-**Email:** udit@uditrai.com  
-**Book a Call:** <Calendly>  
+During my internships, I noticed a disturbing pattern; small businesses were losing money and reputation to careless development. A few moments that stuck with me:
 
-# I Build Full-Stack Web Solutions — Reliable, Optimized, Secure. ⚙️🛡️  
+➡ A third-party dev deployed our site on an AWS server that was also being used as a command center by an Iranian APT group. The website was delivering malware to users and the domain was blacklisted on Spamhaus and every other major Spam List provider.
 
-I’m a full-stack engineer who builds **any web-deployed solution** you need —  from internal tools to startup MVPs to complex business platforms to custom portals — all reinforced with real-world **cybersecurity and incident-response expertise.**
+➡ The same dev shop took a fun, promising website and flattened it into a generic WordPress clone. The audience was primarily children; and no thought was placed for their experience and expression. The growth rate has understandbly been lukewarm since.
 
-## Why That Matters 
-To be perfectly honest, most developers build reliable solutions; but think comprehensive security (domain to app-level) is an afterthought. But companies **cannot** afford that. Let me share a story with you on that:
-A company that I used to work in Cyber Security for found its emails were not delivering to clients. On investigation, I found that the third party provider they had employed to build host and maintain their website had deployed the website on a compromised AWS server, a server known for being a command center for a known Advanced and Persistent Cyber Threat. All people who attempted to open their website were hit with around 70 pieces of malware; and this caused their domain (e.g. "companywebsite" that the company used for https://companywebsite.com, user@companywebsite.com etc.) to get blacklisted by SpamHaus. The company used to attract thousands of clients in for that brand, but the year after this, struggled to attract a thousand clients. No one ever came forward and said it specifically; but as a Cyber Security brand, we former (and some current) employees estimate it was since their image suffered terribly amongst technically savvy users.
+➡ I trained a government institution during a period of proxy cyber-war and found that even critical staff clicked every link and skipped MFA. All applications must be user-proofed; so as to maintain code and data hygiene, as well as security.
 
-And this is a repetitive trend across companies-
-1. Equifax lost $1.4 billion, that's right; $1,40,00,00,000; because the developers did not patch the Jakarta Multipart Parser. To put it simply, if it were a Node application; all it would is an `npm audit` command to show the very known vulnerability, and another command to update the library.
-2. British Airways lost £200–£250 million; £25,00,00,000; because their frontend did not check against malicious form entries that skimmed payment data as users typed it into the booking form.
-3. Todesktop had to give $5,000 to a third-party penetration tester, who found a way to push malicious scripts to **all their clients**, from Clickup, Notion Calendar, Cursor and Linear; by finding rudimentary firestore vulnerabilities caused basically by hardcoded credentials and weak security rules.
+➡ A friend running a jewellery business used an app that had both bookings and inventory data within the same application. I provided his developer with some resources to set up canary tokens (cyber trip-alarms, as a metaphor) immediately—because inventory data comprises physical risk for him.
 
-While I am not a penetration tester, nor claim to be; I have all the experience and exposure to provide secure yet beautified solutions for every business that does not utilize proprietary payment gateways or deal with highly confidential/sensitive data with an APT threat model. 
-<!--
-As a former **Incident Responder and Lead Cybersecurity Trainer** at **prestigious government institutions during international tensions**, I learned the biggest mistakes that make systems fail, including idiot-proofing those systems. Sounds harsh, but that way they **don’t fall apart when reality gets hostile, or customers get fickle.**
-When you work with me, you don’t just get fast, scalable full-stack builds —  you get **resilient systems designed to protect revenue, data, and reputation.**
-## Not to mention
-If it runs on the web, I build it — end-to-end.
--->
+Learning from the above, I kept my development process algorithmic: threat-model when needed, reduce attack surface always, and build from a research-backed user model. That’s why issues like the ones above don’t happen in my work.
 
 
-# 🚀 Recent Builds (Top 5)
+# 🚀 A Few Of My Recent Builds
 
 ### 🟩 Cyberbullying Map — An Interactive Map with CRUD functionality  
 **Client:** Compudon Junior
 
-**Summary:** An interactive map that pulls data from a NoSQL db and a CRUD desktop application that allows non-technical staff to update data year after year without any developer involvement.
+**Summary:** An interactive map that pulls data from a NoSQL db and a separate CRUD desktop application that allows non-technical staff to update data year after year without any developer involvement.
 
 **Tech:** React, Node, Firestore
 
-**Deep Dive:** <Medium link>  
+**Deep Dive:** Medium link (will be published soon)
 
 **Screenshots:**  
 <img width="420" src="crud_app_read.png"/> <img width="420" src="crud_app_create.png"/> 
@@ -50,10 +37,18 @@ If it runs on the web, I build it — end-to-end.
 
 **Tech:** React, Node
 
-**Deep Dive:** <Medium link>
+**Deep Dive:** Medium link (will be published soon)
 
 **Screenshots:**  
 <img width="420" src="tarot_home.png"/> <img width="420" src="tarot_booking.png"/>
+<img width="420" src="tarot_tarot.png"/> <img width="420" src="tarot_reiki.png"/>
+
+# 📬 Contact  
+Whether you want to get something built, or just want me to take a look at how to improve and secure an existing application:
+
+**Email:** udit@uditrai.com  
+**Book a Call:** <Calendly>  
+
 
 <!---
 

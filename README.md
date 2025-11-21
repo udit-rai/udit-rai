@@ -61,7 +61,7 @@ During my internships, I noticed a disturbing pattern; small businesses were los
 Whether you want to get something built, or just want me to take a look at how to improve and secure an existing application:
 
 **Email:** udit@uditrai.com  
-**Book a Call:** <Calendly>  
+**LinkedIn:** https://www.linkedin.com/in/mr-uditrai/  
 
 
 <!---

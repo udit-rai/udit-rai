@@ -61,6 +61,7 @@ During my internships, I noticed a disturbing pattern; small businesses were los
 Whether you want to get something built, want me to take a look at how to improve and secure an existing application; or even just want some guidance on a student project, reach me at my:
 
 **LinkedIn:** https://www.linkedin.com/in/mr-uditrai/  
+**Medium:** https://medium.com/@udit.blogs
 
 
 <!---

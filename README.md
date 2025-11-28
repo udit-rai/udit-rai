@@ -1,18 +1,3 @@
-# Why I Chose Building for Businesses instead of the Leetcode Grind
-
-During my internships, I noticed a disturbing pattern; small businesses were losing money and reputation to careless development. Some examples:
-
-➡ A third-party dev deployed our site on an AWS server that was also being used as a command center by an Iranian APT group. The website was delivering malware to users and the domain was blacklisted on Spamhaus and every other major Spam List provider.
-
-➡ The same dev shop took a fun, promising website and flattened it into a generic WordPress clone. The audience was primarily children; and no thought was placed for their experience and expression. The growth rate has understandbly been lukewarm since.
-
-➡ I trained a government institution during a period of proxy cyber-war and found that even critical staff clicked every link and skipped MFA. All applications must be user-proofed; so as to maintain code and data hygiene, as well as security.
-
-➡ A friend running a jewellery business used an app that had both bookings and inventory data within the same application. I provided his developer with some resources to set up canary tokens (cyber trip-alarms, as a metaphor) immediately—because inventory data comprises physical risk for him.
-
-♜ Learning from the above, I’ve made my development process algorithmic: reduce attack surfaces, apply threat models when needed, and build from a research-backed user model. It’s how I make sure the systems I build protect your product, your users and your bottom line.
-
-
 # 🚀 A Few Of My Recent Builds
 
 ### 🟩 Cyberbullying Map — An Interactive Map with CRUD functionality  
@@ -62,6 +47,21 @@ Whether you want to get something built, want me to take a look at how to improv
 
 **LinkedIn:** https://www.linkedin.com/in/mr-uditrai/  
 **Medium:** https://medium.com/@udit.blogs
+
+# Why I Chose Building for Businesses instead of the Leetcode Grind
+
+During my internships, I noticed a disturbing pattern; small businesses were losing money and reputation to careless development. Some examples:
+
+➡ A third-party dev deployed our site on an AWS server that was also being used as a command center by an Iranian APT group. The website was delivering malware to users and the domain was blacklisted on Spamhaus and every other major Spam List provider.
+
+➡ The same dev shop took a fun, promising website and flattened it into a generic WordPress clone. The audience was primarily children; and no thought was placed for their experience and expression. The growth rate has understandbly been lukewarm since.
+
+➡ I trained a government institution during a period of proxy cyber-war and found that even critical staff clicked every link and skipped MFA. All applications must be user-proofed; so as to maintain code and data hygiene, as well as security.
+
+➡ A friend running a jewellery business used an app that had both bookings and inventory data within the same application. I provided his developer with some resources to set up canary tokens (cyber trip-alarms, as a metaphor) immediately—because inventory data comprises physical risk for him.
+
+♜ Learning from the above, I’ve made my development process algorithmic: reduce attack surfaces, apply threat models when needed, and build from a research-backed user model. It’s how I make sure the systems I build protect your product, your users and your bottom line.
+
 
 
 <!---

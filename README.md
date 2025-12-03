@@ -48,7 +48,7 @@ Whether you want to get something built, want me to take a look at how to improv
 **LinkedIn:** https://www.linkedin.com/in/mr-uditrai/  
 **Medium:** https://medium.com/@udit.blogs
 
-# Why I Chose Building for Businesses instead of the Leetcode Grind
+# Why I Chose Building for Businesses
 
 During my internships, I noticed a disturbing pattern; small businesses were losing money and reputation to careless development. Some examples:
 
@@ -89,5 +89,4 @@ I don’t just build what you ask for.
 I build what you actually **need** for long-term stability.
 
 --->
-*Tell me what you want — I’ll build the safest, cleanest version of it.*
 

@@ -1,5 +1,31 @@
 # 🚀 A Few Of My Recent Builds
 
+### 🤖 Dedicated Chatbot Agents as exam preparation assistants  
+**Client:** Cyber IT Solutions
+
+**Summary:** A series of interactive chatbot agents that authenticate against registration numbers, then practice the respective certification via questions and doubt answering. Designed to quiz and clarify all aspects of each examination with a view to teach via metaphors, memorization techniques and simplified language.
+
+**Tech:** Python, OpenAI Workflows, OpenAI GPT Builder
+
+**Screenshots:**  
+<img width="420" src="ai_1.jpeg"/> <img width="420" src="az_2.jpeg"/> 
+<img width="420" src="dp_1.jpeg"/> <img width="420" src="SC_1.jpeg"/>
+
+---
+
+### 🖥️ Static Site Generator REST API with Admin Server  
+**Client:** CyberLearning India
+
+**Summary:** A user-facing REST API linked to a NoSQL DB, html pages and html injections was utilized to display all services of the company on a single domain. A seperate secured admin server was also created so as to enable non-technical operators to add, delete and edit services displayed on the website.
+
+**Tech:** Node.js, FirestoreDB, Railway APIs
+
+**Screenshots:**  
+<img width="420" src="ss_home.jpeg"/> <img width="420" src="ss_cert.jpeg"/> 
+<img width="420" src="create.jpeg"/> <img width="420" src="actions.jpeg"/>
+
+---
+
 ### 🟩 Cyberbullying Map — An Interactive Map with CRUD functionality  
 **Client:** Compudon Junior
 
@@ -14,8 +40,8 @@
 <img width="420" src="map_home.png"/> <img width="420" src="map_china.png"/>
 
 ---
-
-### 🎨 Portfolio Website — For a spiritual and motivational healer  
+<!--
+###  Portfolio Website — For a spiritual and motivational healer  
 **Client:** Rina Shah  
 
 **Summary:** To optimize beauty of the website as well as reduce risks; the website leans on "whitespace" with beautified images, optimized and modified for faster load times. 
@@ -42,6 +68,9 @@
 <img width="420" height="auto" src="lib_login_page.png"/><img width="420" height="auto" src="lib_lms_menu.png"/>
 
 
+This is also a comment
+that spans multiple lines.
+-->
 # 📬 Contact  
 Whether you want to get something built, want me to take a look at how to improve and secure an existing application; or even just want some guidance on a student project, reach me at my:
 

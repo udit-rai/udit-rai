@@ -40,7 +40,6 @@
 <img width="420" src="map_home.png"/> <img width="420" src="map_china.png"/>
 
 ---
-<!--
 ###  Portfolio Website — For a spiritual and motivational healer  
 **Client:** Rina Shah  
 
@@ -53,6 +52,8 @@
 **Screenshots:**  
 <img width="420" src="tarot_home.png"/> <img width="420" src="tarot_booking.png"/>
 <img width="420" src="tarot_service.png"/>
+<!--
+
 
 
 ### 🔒 Academic Project — For an IT Training Educator  
